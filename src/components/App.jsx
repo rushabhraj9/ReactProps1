@@ -19,10 +19,10 @@ function App() {
       />
 
       <Card
-        name={contacts[1].name}
-        link={contacts[1].imgURL}
-        tel={contacts[1].phone}
-        mail={contacts[1].email}
+        name={contacts[2].name}
+        link={contacts[2].imgURL}
+        tel={contacts[2].phone}
+        mail={contacts[2].email}
       />
     </div>
   );
